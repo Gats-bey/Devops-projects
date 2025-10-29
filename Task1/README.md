@@ -8,7 +8,7 @@ Tasks:
 1.	Create new Github repository.
 2.	Create Task1 folder in the master branch. Create and push ./Task1/README.md file.
 
-      ![commands](Task1/commands1.0.jpg)
+      ![commands](commands1.0.jpg)
 
 3.	Create new branch dev. Create and push any test file.
 4.	Create new branch %USERNAME-new_feature.
