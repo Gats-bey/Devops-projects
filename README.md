@@ -261,4 +261,3 @@ What would we like to see? The created infrastructure in which it will be possib
 - EXTRA: SonarQube integration.
 
 
-This is my first DevOps project on AWS EC2 using Git and GitHub CLI.
