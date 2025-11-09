@@ -17,6 +17,9 @@ Tasks:
 7.	Add .gitignore file to ignore all files whose name begins “.”
 8.	Commit and push changes to github repo.
 9.	Create Pull Request to the dev branch.
+
+      ![commands](commands1.1.jpg)
+
 10.	Merge your branch with the dev branch and create Pull Request to the master branch. Merge dev with master.
 11.	Checkout to %USERNAME-new_feature, make changes in README.md and commit them. Revert last commit in %USERNAME-new_feature branch.
 12.	Check your repo with git log command, create log.txt file in master branch and save “git log” output in it.
